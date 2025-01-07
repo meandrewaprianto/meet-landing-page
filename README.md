@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/screenshot/meet-desktop.png.jpg)
+![](./assets/screenshot/meet-desktop.png)
 ![](./assets/screenshot/meet-mobile.jpeg)
 
 ### Links
